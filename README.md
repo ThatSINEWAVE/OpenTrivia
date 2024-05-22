@@ -1,8 +1,8 @@
 <div align="center">
 
-# OpenTrivia
+# [OpenTrivia](https://thatsinewave.github.io/OpenTrivia)
 
-Welcome to OpenTrivia! This is a fun and interactive trivia game where you can test your knowledge on various topics. You can access the site [here](https://thatsinewave.github.io/OpenTrivia).
+Welcome to OpenTrivia! This is a fun and interactive trivia game where you can test your knowledge on various topics.
 
 ![OpenTrivia](https://github.com/ThatSINEWAVE/OpenTrivia/assets/133239148/29e8dbbc-5141-4dab-873f-2c86300aa4c2)
 
