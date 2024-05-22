@@ -4,7 +4,7 @@
 
 Welcome to OpenTrivia! This is a fun and interactive trivia game where you can test your knowledge on various topics. You can access the site [here](https://thatsinewave.github.io/OpenTrivia).
 
-![OpenTrivia](https://github.com/ThatSINEWAVE/OpenTrivia/assets/133239148/c05a2107-2663-45c8-96d1-c6af11c1c6e4)
+![OpenTrivia](https://github.com/ThatSINEWAVE/OpenTrivia/assets/133239148/29e8dbbc-5141-4dab-873f-2c86300aa4c2)
 
 </div>
 
